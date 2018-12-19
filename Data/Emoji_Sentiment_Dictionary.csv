@@ -1,0 +1,753 @@
+Emoji Sentiment Dictionary
+Emoji,Unicode codepoint,Neg [0…1],Neut [0…1],Pos [0…1],Unicode name
+😂,0x1f602,0.247,0.285,0.468,face with tears of joy
+❤,0x2764,0.044,0.166,0.790,heavy black heart
+♥,0x2665,0.035,0.272,0.693,black heart suit
+😍,0x1f60d,0.052,0.219,0.729,smiling face with heart-shaped eyes
+😭,0x1f62d,0.436,0.220,0.343,loudly crying face
+😘,0x1f618,0.053,0.193,0.754,face throwing a kiss
+😊,0x1f60a,0.060,0.237,0.704,smiling face with smiling eyes
+👌,0x1f44c,0.094,0.249,0.657,ok hand sign
+💕,0x1f495,0.042,0.285,0.674,two hearts
+👏,0x1f44f,0.104,0.271,0.624,clapping hands sign
+😁,0x1f601,0.127,0.296,0.577,grinning face with smiling eyes
+☺,0x263a,0.062,0.218,0.720,white smiling face
+♡,0x2661,0.052,0.227,0.721,white heart suit
+👍,0x1f44d,0.115,0.248,0.637,thumbs up sign
+😩,0x1f629,0.591,0.186,0.223,weary face
+🙏,0x1f64f,0.081,0.421,0.498,person with folded hands
+✌,0x270c,0.113,0.310,0.576,victory hand
+😏,0x1f60f,0.112,0.444,0.444,smirking face
+😉,0x1f609,0.100,0.337,0.563,winking face
+🙌,0x1f64c,0.101,0.238,0.661,person raising both hands in celebration
+🙈,0x1f648,0.164,0.241,0.596,see-no-evil monkey
+💪,0x1f4aa,0.072,0.301,0.627,flexed biceps
+😄,0x1f604,0.137,0.305,0.558,smiling face with open mouth and smiling eyes
+😒,0x1f612,0.591,0.192,0.217,unamused face
+💃,0x1f483,0.045,0.177,0.779,dancer
+💖,0x1f496,0.043,0.201,0.755,sparkling heart
+😃,0x1f603,0.072,0.299,0.629,smiling face with open mouth
+😔,0x1f614,0.464,0.219,0.318,pensive face
+😱,0x1f631,0.264,0.282,0.454,face screaming in fear
+🎉,0x1f389,0.039,0.184,0.777,party popper
+😜,0x1f61c,0.112,0.322,0.566,face with stuck-out tongue and winking eye
+☯,0x262f,0.006,0.987,0.007,yin yang
+🌸,0x1f338,0.040,0.270,0.690,cherry blossom
+💜,0x1f49c,0.045,0.257,0.699,purple heart
+💙,0x1f499,0.033,0.204,0.763,blue heart
+✨,0x2728,0.052,0.545,0.403,sparkles
+😳,0x1f633,0.327,0.327,0.345,flushed face
+💗,0x1f497,0.051,0.241,0.708,growing heart
+★,0x2605,0.031,0.655,0.314,black star
+█,0x2588,0.090,0.853,0.057,full block
+☀,0x2600,0.028,0.479,0.493,black sun with rays
+😡,0x1f621,0.532,0.108,0.360,pouting face
+😎,0x1f60e,0.106,0.297,0.597,smiling face with sunglasses
+😢,0x1f622,0.384,0.225,0.391,crying face
+💋,0x1f48b,0.039,0.231,0.730,kiss mark
+😋,0x1f60b,0.046,0.277,0.677,face savouring delicious food
+🙊,0x1f64a,0.135,0.272,0.593,speak-no-evil monkey
+😴,0x1f634,0.422,0.237,0.341,sleeping face
+🎶,0x1f3b6,0.097,0.270,0.634,multiple musical notes
+💞,0x1f49e,0.041,0.180,0.780,revolving hearts
+😌,0x1f60c,0.141,0.237,0.623,relieved face
+🔥,0x1f525,0.124,0.613,0.263,fire
+💯,0x1f4af,0.281,0.317,0.402,hundred points symbol
+🔫,0x1f52b,0.493,0.209,0.298,pistol
+💛,0x1f49b,0.043,0.205,0.752,yellow heart
+💁,0x1f481,0.192,0.290,0.518,information desk person
+💚,0x1f49a,0.078,0.189,0.733,green heart
+♫,0x266b,0.063,0.586,0.351,beamed eighth notes
+😞,0x1f61e,0.479,0.161,0.361,disappointed face
+😆,0x1f606,0.155,0.281,0.564,smiling face with open mouth and tightly-closed eyes
+😝,0x1f61d,0.132,0.313,0.555,face with stuck-out tongue and tightly-closed eyes
+😪,0x1f62a,0.431,0.219,0.351,sleepy face
+�,0xfffd,0.166,0.581,0.253,replacement character
+😫,0x1f62b,0.485,0.174,0.340,tired face
+😅,0x1f605,0.292,0.237,0.471,smiling face with open mouth and cold sweat
+👊,0x1f44a,0.265,0.243,0.492,fisted hand sign
+💀,0x1f480,0.468,0.270,0.261,skull
+😀,0x1f600,0.086,0.260,0.654,grinning face
+😚,0x1f61a,0.049,0.192,0.759,kissing face with closed eyes
+😻,0x1f63b,0.069,0.243,0.688,smiling cat face with heart-shaped eyes
+©,0xa9,0.131,0.621,0.248,copyright sign
+👀,0x1f440,0.228,0.482,0.291,eyes
+💘,0x1f498,0.048,0.221,0.731,heart with arrow
+🐓,0x1f413,0.109,0.755,0.137,rooster
+☕,0x2615,0.140,0.475,0.384,hot beverage
+👋,0x1f44b,0.158,0.270,0.571,waving hand sign
+✋,0x270b,0.328,0.218,0.454,raised hand
+🎊,0x1f38a,0.057,0.164,0.779,confetti ball
+🍕,0x1f355,0.056,0.470,0.473,slice of pizza
+❄,0x2744,0.099,0.295,0.605,snowflake
+😥,0x1f625,0.317,0.244,0.439,disappointed but relieved face
+😕,0x1f615,0.601,0.195,0.204,confused face
+💥,0x1f4a5,0.072,0.708,0.220,collision symbol
+💔,0x1f494,0.414,0.293,0.293,broken heart
+😤,0x1f624,0.479,0.252,0.270,face with look of triumph
+😈,0x1f608,0.204,0.326,0.470,smiling face with horns
+►,0x25ba,0.125,0.588,0.287,black right-pointing pointer
+✈,0x2708,0.043,0.498,0.458,airplane
+🔝,0x1f51d,0.088,0.350,0.562,top with upwards arrow above
+😰,0x1f630,0.436,0.148,0.416,face with open mouth and cold sweat
+⚽,0x26bd,0.053,0.278,0.669,soccer ball
+😑,0x1f611,0.513,0.285,0.202,expressionless face
+👑,0x1f451,0.043,0.219,0.738,crown
+😹,0x1f639,0.299,0.262,0.440,cat face with tears of joy
+👉,0x1f449,0.071,0.468,0.461,white right pointing backhand index
+🍃,0x1f343,0.102,0.418,0.480,leaf fluttering in wind
+🎁,0x1f381,0.041,0.158,0.801,wrapped present
+😠,0x1f620,0.564,0.172,0.265,angry face
+🐧,0x1f427,0.042,0.460,0.498,penguin
+☆,0x2606,0.032,0.509,0.460,white star
+🍀,0x1f340,0.025,0.665,0.310,four leaf clover
+🎈,0x1f388,0.018,0.246,0.736,balloon
+🎅,0x1f385,0.029,0.625,0.347,father christmas
+😓,0x1f613,0.431,0.217,0.351,face with cold sweat
+😣,0x1f623,0.540,0.131,0.328,persevering face
+😐,0x1f610,0.553,0.282,0.165,neutral face
+✊,0x270a,0.139,0.293,0.568,raised fist
+😨,0x1f628,0.434,0.272,0.294,fearful face
+😖,0x1f616,0.483,0.188,0.328,confounded face
+💤,0x1f4a4,0.144,0.341,0.515,sleeping symbol
+💓,0x1f493,0.061,0.214,0.725,beating heart
+👎,0x1f44e,0.494,0.199,0.307,thumbs down sign
+💦,0x1f4a6,0.141,0.247,0.612,splashing sweat symbol
+✔,0x2714,0.127,0.476,0.397,heavy check mark
+😷,0x1f637,0.474,0.221,0.305,face with medical mask
+⚡,0x26a1,0.044,0.735,0.221,high voltage sign
+🙋,0x1f64b,0.130,0.255,0.615,happy person raising one hand
+🎄,0x1f384,0.067,0.335,0.598,christmas tree
+💩,0x1f4a9,0.409,0.297,0.293,pile of poo
+🎵,0x1f3b5,0.106,0.288,0.606,musical note
+➡,0x27a1,0.013,0.827,0.160,black rightwards arrow
+😛,0x1f61b,0.085,0.229,0.686,face with stuck-out tongue
+😬,0x1f62c,0.267,0.272,0.461,grimacing face
+👯,0x1f46f,0.117,0.327,0.556,woman with bunny ears
+💎,0x1f48e,0.057,0.325,0.618,gem stone
+🌿,0x1f33f,0.009,0.597,0.393,herb
+🎂,0x1f382,0.083,0.221,0.696,birthday cake
+🌟,0x1f31f,0.059,0.554,0.386,glowing star
+🔮,0x1f52e,0.035,0.663,0.302,crystal ball
+❗,0x2757,0.159,0.582,0.259,heavy exclamation mark symbol
+👫,0x1f46b,0.220,0.305,0.475,man and woman holding hands
+🏆,0x1f3c6,0.036,0.203,0.761,trophy
+✖,0x2716,0.046,0.597,0.357,heavy multiplication x
+☝,0x261d,0.144,0.402,0.454,white up pointing index
+😙,0x1f619,0.021,0.180,0.799,kissing face with smiling eyes
+⛄,0x26c4,0.077,0.325,0.598,snowman without snow
+👅,0x1f445,0.124,0.290,0.585,tongue
+♪,0x266a,0.083,0.301,0.617,eighth note
+🍂,0x1f342,0.036,0.380,0.583,fallen leaf
+💏,0x1f48f,0.181,0.250,0.569,kiss
+🔪,0x1f52a,0.210,0.511,0.280,hocho
+🌴,0x1f334,0.077,0.320,0.602,palm tree
+👈,0x1f448,0.085,0.407,0.508,white left pointing backhand index
+🌹,0x1f339,0.023,0.354,0.623,rose
+🙆,0x1f646,0.092,0.316,0.592,face with ok gesture
+➜,0x279c,0.052,0.734,0.214,heavy round-tipped rightwards arrow
+👻,0x1f47b,0.170,0.433,0.398,ghost
+💰,0x1f4b0,0.158,0.433,0.409,money bag
+🍻,0x1f37b,0.107,0.274,0.619,clinking beer mugs
+🙅,0x1f645,0.458,0.286,0.256,face with no good gesture
+🌞,0x1f31e,0.024,0.394,0.582,sun with face
+🍁,0x1f341,0.037,0.445,0.518,maple leaf
+⭐,0x2b50,0.037,0.346,0.617,white medium star
+▪,0x25aa,0.099,0.605,0.296,black small square
+🎀,0x1f380,0.044,0.283,0.673,ribbon
+━,0x2501,0.094,0.635,0.270,box drawings heavy horizontal
+☷,0x2637,0.019,0.898,0.083,trigram for earth
+🐷,0x1f437,0.077,0.477,0.445,pig face
+🙉,0x1f649,0.176,0.314,0.510,hear-no-evil monkey
+🌺,0x1f33a,0.020,0.412,0.569,hibiscus
+💅,0x1f485,0.184,0.243,0.572,nail polish
+🐶,0x1f436,0.086,0.252,0.662,dog face
+🌚,0x1f31a,0.159,0.219,0.623,new moon with face
+👽,0x1f47d,0.094,0.497,0.409,extraterrestrial alien
+🎤,0x1f3a4,0.122,0.279,0.599,microphone
+👭,0x1f46d,0.143,0.252,0.605,two women holding hands
+🎧,0x1f3a7,0.131,0.324,0.545,headphone
+👆,0x1f446,0.121,0.433,0.447,white up pointing backhand index
+🍸,0x1f378,0.092,0.277,0.631,cocktail glass
+🍷,0x1f377,0.057,0.493,0.450,wine glass
+®,0xae,0.071,0.579,0.350,registered sign
+🍉,0x1f349,0.079,0.245,0.676,watermelon
+😇,0x1f607,0.072,0.268,0.659,smiling face with halo
+☑,0x2611,0.022,0.855,0.123,ballot box with check
+🏃,0x1f3c3,0.094,0.406,0.500,runner
+😿,0x1f63f,0.577,0.219,0.204,crying cat face
+│,0x2502,0.007,0.642,0.350,box drawings light vertical
+💣,0x1f4a3,0.306,0.381,0.313,bomb
+🍺,0x1f37a,0.067,0.373,0.560,beer mug
+▶,0x25b6,0.060,0.672,0.269,black right-pointing triangle
+😲,0x1f632,0.386,0.295,0.318,astonished face
+🎸,0x1f3b8,0.016,0.453,0.531,guitar
+🍹,0x1f379,0.048,0.246,0.706,tropical drink
+💫,0x1f4ab,0.040,0.419,0.540,dizzy symbol
+📚,0x1f4da,0.189,0.287,0.525,books
+😶,0x1f636,0.425,0.292,0.283,face without mouth
+🌷,0x1f337,0.008,0.445,0.546,tulip
+💝,0x1f49d,0.076,0.203,0.720,heart with ribbon
+💨,0x1f4a8,0.110,0.398,0.492,dash symbol
+🏈,0x1f3c8,0.068,0.333,0.598,american football
+💍,0x1f48d,0.148,0.226,0.626,ring
+☔,0x2614,0.193,0.325,0.482,umbrella with rain drops
+👸,0x1f478,0.061,0.272,0.667,princess
+🇪,0x1f1ea,0.027,0.330,0.643,regional indicator symbol letter e
+░,0x2591,0.234,0.577,0.189,light shade
+🍩,0x1f369,0.145,0.327,0.527,doughnut
+👾,0x1f47e,0.019,0.602,0.380,alien monster
+☁,0x2601,0.140,0.411,0.449,cloud
+🌻,0x1f33b,0.019,0.393,0.589,sunflower
+😵,0x1f635,0.321,0.274,0.406,dizzy face
+📒,0x1f4d2,0.010,0.943,0.048,ledger
+↿,0x21bf,0.010,0.333,0.657,upwards harpoon with barb leftwards
+🐯,0x1f42f,0.049,0.427,0.524,tiger face
+👼,0x1f47c,0.176,0.314,0.510,baby angel
+🍔,0x1f354,0.168,0.386,0.446,hamburger
+😸,0x1f638,0.120,0.350,0.530,grinning cat face with smiling eyes
+👶,0x1f476,0.141,0.283,0.576,baby
+↾,0x21be,0.010,0.333,0.657,upwards harpoon with barb rightwards
+💐,0x1f490,0.041,0.184,0.776,bouquet
+🌊,0x1f30a,0.092,0.316,0.592,water wave
+🍦,0x1f366,0.143,0.255,0.602,soft ice cream
+🍓,0x1f353,0.041,0.247,0.711,strawberry
+👇,0x1f447,0.144,0.464,0.392,white down pointing backhand index
+💆,0x1f486,0.263,0.253,0.484,face massage
+🍴,0x1f374,0.053,0.358,0.589,fork and knife
+😧,0x1f627,0.389,0.284,0.326,anguished face
+🇸,0x1f1f8,0.096,0.298,0.606,regional indicator symbol letter s
+😮,0x1f62e,0.183,0.366,0.452,face with open mouth
+▓,0x2593,0.032,0.925,0.043,dark shade
+🚫,0x1f6ab,0.538,0.363,0.099,no entry sign
+😽,0x1f63d,0.132,0.165,0.703,kissing cat face with closed eyes
+🌈,0x1f308,0.066,0.352,0.582,rainbow
+🙀,0x1f640,0.165,0.341,0.495,weary cat face
+⚠,0x26a0,0.187,0.692,0.121,warning sign
+🎮,0x1f3ae,0.101,0.371,0.528,video game
+╯,0x256f,0.230,0.552,0.218,box drawings light arc up and left
+🍆,0x1f346,0.080,0.437,0.483,aubergine
+🍰,0x1f370,0.161,0.230,0.609,shortcake
+✓,0x2713,0.115,0.483,0.402,check mark
+👐,0x1f450,0.395,0.233,0.372,open hands sign
+🙇,0x1f647,0.291,0.279,0.430,person bowing deeply
+🍟,0x1f35f,0.174,0.349,0.477,french fries
+🍌,0x1f34c,0.129,0.306,0.565,banana
+💑,0x1f491,0.071,0.200,0.729,couple with heart
+👬,0x1f46c,0.353,0.353,0.294,two men holding hands
+🐣,0x1f423,0.155,0.214,0.631,hatching chick
+🎃,0x1f383,0.083,0.238,0.679,jack-o-lantern
+▬,0x25ac,0.012,0.512,0.476,black rectangle
+￼,0xfffc,0.536,0.405,0.060,object replacement character
+😟,0x1f61f,0.349,0.229,0.422,worried face
+🐾,0x1f43e,0.111,0.173,0.716,paw prints
+🎓,0x1f393,0.100,0.238,0.663,graduation cap
+🏊,0x1f3ca,0.038,0.350,0.613,swimmer
+🍫,0x1f36b,0.291,0.266,0.443,chocolate bar
+📷,0x1f4f7,0.101,0.367,0.532,camera
+👄,0x1f444,0.077,0.372,0.551,mouth
+🌼,0x1f33c,0.026,0.169,0.805,blossom
+🚶,0x1f6b6,0.377,0.390,0.234,pedestrian
+🐱,0x1f431,0.145,0.197,0.658,cat face
+║,0x2551,0.013,0.829,0.158,box drawings double vertical
+🐸,0x1f438,0.333,0.413,0.253,frog face
+🇺,0x1f1fa,0.122,0.216,0.662,regional indicator symbol letter u
+👿,0x1f47f,0.658,0.219,0.123,imp
+🚬,0x1f6ac,0.123,0.233,0.644,smoking symbol
+✿,0x273f,0.041,0.534,0.425,black florette
+📖,0x1f4d6,0.268,0.296,0.437,open book
+🐒,0x1f412,0.028,0.423,0.549,monkey
+🌍,0x1f30d,0.085,0.239,0.676,earth globe europe-africa
+┊,0x250a,0.014,0.014,0.972,box drawings light quadruple dash vertical
+🐥,0x1f425,0.071,0.271,0.657,front-facing baby chick
+🌀,0x1f300,0.159,0.580,0.261,cyclone
+🐼,0x1f43c,0.072,0.594,0.333,panda face
+🎥,0x1f3a5,0.130,0.449,0.420,movie camera
+💄,0x1f484,0.101,0.362,0.536,lipstick
+💸,0x1f4b8,0.246,0.348,0.406,money with wings
+⛔,0x26d4,0.088,0.338,0.574,no entry
+●,0x25cf,0.132,0.559,0.309,black circle
+🏀,0x1f3c0,0.209,0.328,0.463,basketball and hoop
+💉,0x1f489,0.179,0.284,0.537,syringe
+💟,0x1f49f,0.061,0.197,0.742,heart decoration
+🚗,0x1f697,0.138,0.492,0.369,automobile
+😯,0x1f62f,0.262,0.354,0.385,hushed face
+📝,0x1f4dd,0.138,0.492,0.369,memo
+═,0x2550,0.015,0.954,0.031,box drawings double horizontal
+♦,0x2666,0.109,0.328,0.563,black diamond suit
+💭,0x1f4ad,0.175,0.444,0.381,thought balloon
+🌙,0x1f319,0.066,0.279,0.656,crescent moon
+🐟,0x1f41f,0.049,0.213,0.738,fish
+👣,0x1f463,0.115,0.426,0.459,footprints
+☞,0x261e,0.016,0.852,0.131,white right pointing index
+✂,0x2702,0.574,0.311,0.115,black scissors
+🗿,0x1f5ff,0.098,0.361,0.541,moyai
+🍝,0x1f35d,0.283,0.317,0.400,spaghetti
+👪,0x1f46a,0.417,0.183,0.400,family
+🍭,0x1f36d,0.167,0.367,0.467,lollipop
+🌃,0x1f303,0.068,0.475,0.458,night with stars
+❌,0x274c,0.254,0.220,0.525,cross mark
+🐰,0x1f430,0.086,0.241,0.672,rabbit face
+💊,0x1f48a,0.155,0.259,0.586,pill
+🚨,0x1f6a8,0.121,0.121,0.759,police cars revolving light
+😦,0x1f626,0.544,0.281,0.175,frowning face with open mouth
+🍪,0x1f36a,0.193,0.298,0.509,cookie
+🍣,0x1f363,0.446,0.339,0.214,sushi
+╭,0x256d,0.071,0.696,0.232,box drawings light arc down and right
+✧,0x2727,0.036,0.607,0.357,white four pointed star
+🎆,0x1f386,0.055,0.182,0.764,fireworks
+╮,0x256e,0.109,0.655,0.236,box drawings light arc down and left
+🎎,0x1f38e,0.019,0.056,0.926,japanese dolls
+🇩,0x1f1e9,0.037,0.315,0.648,regional indicator symbol letter d
+✅,0x2705,0.074,0.444,0.481,white heavy check mark
+👹,0x1f479,0.269,0.404,0.327,japanese ogre
+📱,0x1f4f1,0.096,0.500,0.404,mobile phone
+🙍,0x1f64d,0.577,0.173,0.250,person frowning
+🍑,0x1f351,0.250,0.250,0.500,peach
+🎼,0x1f3bc,0.058,0.558,0.385,musical score
+🔊,0x1f50a,0.096,0.404,0.500,speaker with three sound waves
+🌌,0x1f30c,0.120,0.240,0.640,milky way
+🍎,0x1f34e,0.140,0.400,0.460,red apple
+🐻,0x1f43b,0.140,0.280,0.580,bear face
+─,0x2500,0.020,0.820,0.160,box drawings light horizontal
+╰,0x2570,0.160,0.740,0.100,box drawings light arc up and right
+💇,0x1f487,0.163,0.347,0.490,haircut
+♬,0x266c,0.102,0.551,0.347,beamed sixteenth notes
+♚,0x265a,0.020,0.918,0.061,black chess king
+🔴,0x1f534,0.042,0.521,0.438,large red circle
+🍱,0x1f371,0.542,0.229,0.229,bento box
+🍊,0x1f34a,0.146,0.292,0.563,tangerine
+🍒,0x1f352,0.146,0.396,0.458,cherries
+🐭,0x1f42d,0.021,0.271,0.708,mouse face
+👟,0x1f45f,0.125,0.333,0.542,athletic shoe
+🌎,0x1f30e,0.128,0.426,0.447,earth globe americas
+🍍,0x1f34d,0.170,0.191,0.638,pineapple
+🐮,0x1f42e,0.065,0.283,0.652,cow face
+📲,0x1f4f2,0.174,0.413,0.413,mobile phone with rightwards arrow at left
+☼,0x263c,0.065,0.674,0.261,white sun with rays
+🌅,0x1f305,0.156,0.333,0.511,sunrise
+🇷,0x1f1f7,0.044,0.244,0.711,regional indicator symbol letter r
+👠,0x1f460,0.156,0.333,0.511,high-heeled shoe
+🌽,0x1f33d,0.133,0.289,0.578,ear of maize
+💧,0x1f4a7,0.477,0.205,0.318,droplet
+❓,0x2753,0.182,0.568,0.250,black question mark ornament
+🍬,0x1f36c,0.205,0.227,0.568,candy
+😺,0x1f63a,0.209,0.186,0.605,smiling cat face with open mouth
+🐴,0x1f434,0.209,0.512,0.279,horse face
+🚀,0x1f680,0.070,0.372,0.558,rocket
+¦,0xa6,0.186,0.047,0.767,broken bar
+💢,0x1f4a2,0.163,0.442,0.395,anger symbol
+🎬,0x1f3ac,0.070,0.581,0.349,clapper board
+🍧,0x1f367,0.233,0.233,0.535,shaved ice
+🍜,0x1f35c,0.233,0.140,0.628,steaming bowl
+🐏,0x1f40f,0.070,0.302,0.628,ram
+🐘,0x1f418,0.233,0.512,0.256,elephant
+👧,0x1f467,0.256,0.349,0.395,girl
+⠀,0x2800,0.163,0.628,0.209,braille pattern blank
+🏄,0x1f3c4,0.071,0.333,0.595,surfer
+➤,0x27a4,0.024,0.643,0.333,black rightwards arrowhead
+⬆,0x2b06,0.048,0.619,0.333,upwards black arrow
+🍋,0x1f34b,0.171,0.415,0.415,lemon
+🆗,0x1f197,0.171,0.122,0.707,squared ok
+⚪,0x26aa,0.025,0.500,0.475,medium white circle
+📺,0x1f4fa,0.100,0.425,0.475,television
+🍅,0x1f345,0.250,0.150,0.600,tomato
+⛅,0x26c5,0.125,0.300,0.575,sun behind cloud
+🐢,0x1f422,0.175,0.450,0.375,turtle
+👙,0x1f459,0.100,0.300,0.600,bikini
+🏡,0x1f3e1,0.154,0.256,0.590,house with garden
+🌾,0x1f33e,0.154,0.154,0.692,ear of rice
+◉,0x25c9,0.026,0.692,0.282,fisheye
+✏,0x270f,0.105,0.447,0.447,pencil
+🐬,0x1f42c,0.079,0.421,0.500,dolphin
+🍤,0x1f364,0.184,0.579,0.237,fried shrimp
+🇹,0x1f1f9,0.026,0.368,0.605,regional indicator symbol letter t
+♣,0x2663,0.132,0.395,0.474,black club suit
+🐝,0x1f41d,0.158,0.474,0.368,honeybee
+🌝,0x1f31d,0.162,0.486,0.351,full moon with face
+🇮,0x1f1ee,0.027,0.351,0.622,regional indicator symbol letter i
+🔋,0x1f50b,0.622,0.243,0.135,battery
+🐍,0x1f40d,0.108,0.432,0.459,snake
+♔,0x2654,0.027,0.405,0.568,white chess king
+🍳,0x1f373,0.389,0.194,0.417,cooking
+🔵,0x1f535,0.139,0.417,0.444,large blue circle
+😾,0x1f63e,0.583,0.167,0.250,pouting cat face
+🌕,0x1f315,0.111,0.222,0.667,full moon symbol
+🐨,0x1f428,0.139,0.278,0.583,koala
+🔐,0x1f510,0.194,0.278,0.528,closed lock with key
+💿,0x1f4bf,0.028,0.333,0.639,optical disc
+❁,0x2741,0.028,0.889,0.083,eight petalled outlined black florette
+🌳,0x1f333,0.086,0.343,0.571,deciduous tree
+👰,0x1f470,0.114,0.286,0.600,bride with veil
+❀,0x2740,0.029,0.543,0.429,white florette
+⚓,0x2693,0.086,0.257,0.657,anchor
+🚴,0x1f6b4,0.029,0.286,0.686,bicyclist
+▀,0x2580,0.314,0.514,0.171,upper half block
+👗,0x1f457,0.176,0.412,0.412,dress
+➕,0x2795,0.147,0.176,0.676,heavy plus sign
+💬,0x1f4ac,0.152,0.333,0.515,speech balloon
+▒,0x2592,0.091,0.848,0.061,medium shade
+🔜,0x1f51c,0.182,0.364,0.455,soon with rightwards arrow above
+🍨,0x1f368,0.273,0.242,0.485,ice cream
+💲,0x1f4b2,0.030,0.697,0.273,heavy dollar sign
+⛽,0x26fd,0.061,0.727,0.212,fuel pump
+🍙,0x1f359,0.188,0.344,0.469,rice ball
+🍗,0x1f357,0.313,0.313,0.375,poultry leg
+🍲,0x1f372,0.250,0.375,0.375,pot of food
+🍥,0x1f365,0.719,0.156,0.125,fish cake with swirl design
+▸,0x25b8,0.031,0.719,0.250,black right-pointing small triangle
+♛,0x265b,0.156,0.500,0.344,black chess queen
+😼,0x1f63c,0.194,0.258,0.548,cat face with wry smile
+🐙,0x1f419,0.097,0.419,0.484,octopus
+👨,0x1f468,0.097,0.290,0.613,man
+🍚,0x1f35a,0.226,0.097,0.677,cooked rice
+🍖,0x1f356,0.258,0.355,0.387,meat on bone
+♨,0x2668,0.032,0.065,0.903,hot springs
+🎹,0x1f3b9,0.032,0.581,0.387,musical keyboard
+♕,0x2655,0.032,0.548,0.419,white chess queen
+▃,0x2583,0.032,0.032,0.935,lower three eighths block
+🚘,0x1f698,0.300,0.333,0.367,oncoming automobile
+🍏,0x1f34f,0.267,0.400,0.333,green apple
+👩,0x1f469,0.333,0.267,0.400,woman
+👦,0x1f466,0.200,0.467,0.333,boy
+🇬,0x1f1ec,0.100,0.533,0.367,regional indicator symbol letter g
+🇧,0x1f1e7,0.100,0.533,0.367,regional indicator symbol letter b
+☠,0x2620,0.267,0.500,0.233,skull and crossbones
+🐠,0x1f420,0.172,0.241,0.586,tropical fish
+🚹,0x1f6b9,0.069,0.172,0.759,mens symbol
+💵,0x1f4b5,0.138,0.345,0.517,banknote with dollar sign
+✰,0x2730,0.034,0.138,0.828,shadowed white star
+╠,0x2560,0.034,0.724,0.241,box drawings double vertical and right
+👛,0x1f45b,0.179,0.286,0.536,purse
+🚙,0x1f699,0.214,0.536,0.250,recreational vehicle
+🌱,0x1f331,0.036,0.357,0.607,seedling
+💻,0x1f4bb,0.071,0.607,0.321,personal computer
+🌏,0x1f30f,0.143,0.393,0.464,earth globe asia-australia
+▄,0x2584,0.321,0.429,0.250,lower half block
+👓,0x1f453,0.037,0.630,0.333,eyeglasses
+◄,0x25c4,0.037,0.704,0.259,black left-pointing pointer
+⚾,0x26be,0.370,0.296,0.333,baseball
+🌲,0x1f332,0.115,0.385,0.500,evergreen tree
+👴,0x1f474,0.231,0.308,0.462,older man
+🏠,0x1f3e0,0.077,0.346,0.577,house building
+🍇,0x1f347,0.231,0.269,0.500,grapes
+🍘,0x1f358,0.231,0.154,0.615,rice cracker
+🍛,0x1f35b,0.346,0.269,0.385,curry and rice
+🐇,0x1f407,0.192,0.385,0.423,rabbit
+🔞,0x1f51e,0.269,0.500,0.231,no one under eighteen symbol
+👵,0x1f475,0.231,0.115,0.654,older woman
+◀,0x25c0,0.038,0.654,0.308,black left-pointing triangle
+🔙,0x1f519,0.115,0.577,0.308,back with leftwards arrow above
+🌵,0x1f335,0.269,0.269,0.462,cactus
+🐽,0x1f43d,0.240,0.400,0.360,pig nose
+🍮,0x1f36e,0.440,0.240,0.320,custard
+🎇,0x1f387,0.080,0.160,0.760,firework sparkler
+🐎,0x1f40e,0.120,0.360,0.520,horse
+➔,0x2794,0.160,0.800,0.040,heavy wide-headed rightwards arrow
+💶,0x1f4b6,0.160,0.680,0.160,banknote with euro sign
+🐤,0x1f424,0.080,0.320,0.600,baby chick
+╩,0x2569,0.040,0.720,0.240,box drawings double up and horizontal
+🛀,0x1f6c0,0.292,0.292,0.417,bath
+🌑,0x1f311,0.125,0.292,0.583,new moon symbol
+🚲,0x1f6b2,0.083,0.458,0.458,bicycle
+🐑,0x1f411,0.292,0.583,0.125,sheep
+🏁,0x1f3c1,0.042,0.417,0.542,chequered flag
+🍞,0x1f35e,0.292,0.375,0.333,bread
+🎾,0x1f3be,0.125,0.208,0.667,tennis racquet and ball
+╚,0x255a,0.042,0.625,0.333,box drawings double up and right
+🈹,0x1f239,0.083,0.542,0.375,squared cjk unified ideograph-5272
+🐳,0x1f433,0.217,0.435,0.348,spouting whale
+👮,0x1f46e,0.478,0.391,0.130,police officer
+☹,0x2639,0.652,0.217,0.130,white frowning face
+🐵,0x1f435,0.087,0.348,0.565,monkey face
+✪,0x272a,0.043,0.609,0.348,circled white star
+◕,0x25d5,0.043,0.478,0.478,circle with all but upper left quadrant black
+🗼,0x1f5fc,0.087,0.304,0.609,tokyo tower
+▐,0x2590,0.217,0.696,0.087,right half block
+♠,0x2660,0.043,0.609,0.348,black spade suit
+┳,0x2533,0.478,0.391,0.130,box drawings heavy down and horizontal
+👺,0x1f47a,0.409,0.364,0.227,japanese goblin
+🐚,0x1f41a,0.091,0.591,0.318,spiral shell
+👂,0x1f442,0.364,0.409,0.227,ear
+🗽,0x1f5fd,0.091,0.500,0.409,statue of liberty
+🍵,0x1f375,0.182,0.273,0.545,teacup without handle
+🆒,0x1f192,0.045,0.545,0.409,squared cool
+🍯,0x1f36f,0.364,0.227,0.409,honey pot
+🐺,0x1f43a,0.136,0.500,0.364,wolf face
+⇨,0x21e8,0.045,0.455,0.500,rightwards white arrow
+➨,0x27a8,0.136,0.591,0.273,heavy concave-pointed black rightwards arrow
+🌓,0x1f313,0.045,0.318,0.636,first quarter moon symbol
+🔒,0x1f512,0.273,0.273,0.455,lock
+╬,0x256c,0.318,0.500,0.182,box drawings double vertical and horizontal
+👳,0x1f473,0.143,0.095,0.762,man with turban
+🌂,0x1f302,0.143,0.476,0.381,closed umbrella
+🚌,0x1f68c,0.143,0.524,0.333,bus
+♩,0x2669,0.048,0.381,0.571,quarter note
+🍡,0x1f361,0.286,0.476,0.238,dango
+❥,0x2765,0.048,0.667,0.286,rotated heavy black heart bullet
+🎡,0x1f3a1,0.095,0.524,0.381,ferris wheel
+💌,0x1f48c,0.150,0.200,0.650,love letter
+🐩,0x1f429,0.050,0.550,0.400,poodle
+🌜,0x1f31c,0.050,0.400,0.550,last quarter moon with face
+⌚,0x231a,0.150,0.500,0.350,watch
+🚿,0x1f6bf,0.100,0.200,0.700,shower
+🐖,0x1f416,0.050,0.750,0.200,pig
+🔆,0x1f506,0.050,0.350,0.600,high brightness symbol
+🌛,0x1f31b,0.050,0.350,0.600,first quarter moon with face
+💂,0x1f482,0.450,0.250,0.300,guardsman
+🐔,0x1f414,0.100,0.500,0.400,chicken
+🙎,0x1f64e,0.450,0.150,0.400,person with pouting face
+🏩,0x1f3e9,0.158,0.263,0.579,love hotel
+🇫,0x1f1eb,0.053,0.421,0.526,regional indicator symbol letter f
+🔨,0x1f528,0.368,0.368,0.263,hammer
+📢,0x1f4e2,0.053,0.474,0.474,public address loudspeaker
+🐦,0x1f426,0.053,0.474,0.474,bird
+🐲,0x1f432,0.158,0.737,0.105,dragon face
+♻,0x267b,0.053,0.421,0.526,black universal recycling symbol
+🌘,0x1f318,0.053,0.316,0.632,waning crescent moon symbol
+🍐,0x1f350,0.316,0.211,0.474,pear
+🌔,0x1f314,0.053,0.316,0.632,waxing gibbous moon symbol
+╥,0x2565,0.368,0.158,0.474,box drawings down double and horizontal single
+❊,0x274a,0.053,0.895,0.053,eight teardrop-spoked propeller asterisk
+👖,0x1f456,0.111,0.444,0.444,jeans
+🚺,0x1f6ba,0.167,0.500,0.333,womens symbol
+😗,0x1f617,0.111,0.167,0.722,kissing face
+🎭,0x1f3ad,0.333,0.333,0.333,performing arts
+🐄,0x1f404,0.167,0.389,0.444,cow
+◟,0x25df,0.167,0.722,0.111,lower left quadrant circular arc
+🍢,0x1f362,0.333,0.444,0.222,oden
+🎨,0x1f3a8,0.111,0.611,0.278,artist palette
+⬇,0x2b07,0.167,0.278,0.556,downwards black arrow
+🚼,0x1f6bc,0.056,0.333,0.611,baby symbol
+⛲,0x26f2,0.111,0.722,0.167,fountain
+▁,0x2581,0.056,0.889,0.056,lower one eighth block
+🇴,0x1f1f4,0.056,0.556,0.389,regional indicator symbol letter o
+🌗,0x1f317,0.056,0.278,0.667,last quarter moon symbol
+🌖,0x1f316,0.056,0.278,0.667,waning gibbous moon symbol
+🔅,0x1f505,0.056,0.056,0.889,low brightness symbol
+👜,0x1f45c,0.176,0.412,0.412,handbag
+🐌,0x1f40c,0.059,0.235,0.706,snail
+💼,0x1f4bc,0.118,0.235,0.647,briefcase
+🚕,0x1f695,0.235,0.529,0.235,taxi
+🐹,0x1f439,0.235,0.235,0.529,hamster face
+🌠,0x1f320,0.176,0.118,0.706,shooting star
+🐈,0x1f408,0.059,0.588,0.353,cat
+⇧,0x21e7,0.059,0.765,0.176,upwards white arrow
+☎,0x260e,0.176,0.647,0.176,black telephone
+🌁,0x1f301,0.118,0.588,0.294,foggy
+⚫,0x26ab,0.235,0.294,0.471,medium black circle
+♧,0x2667,0.059,0.412,0.529,white club suit
+🏰,0x1f3f0,0.118,0.471,0.412,european castle
+🚵,0x1f6b5,0.059,0.529,0.412,mountain bicyclist
+🎢,0x1f3a2,0.118,0.294,0.588,roller coaster
+🎷,0x1f3b7,0.059,0.235,0.706,saxophone
+🎐,0x1f390,0.059,0.706,0.235,wind chime
+┈,0x2508,0.765,0.059,0.176,box drawings light quadruple dash horizontal
+╗,0x2557,0.059,0.529,0.412,box drawings double down and left
+╱,0x2571,0.059,0.882,0.059,box drawings light diagonal upper right to lower left
+🌇,0x1f307,0.063,0.375,0.563,sunset over buildings
+⏰,0x23f0,0.188,0.188,0.625,alarm clock
+⇩,0x21e9,0.063,0.875,0.063,downwards white arrow
+🚂,0x1f682,0.063,0.625,0.313,steam locomotive
+◠,0x25e0,0.063,0.438,0.500,upper half circle
+🎿,0x1f3bf,0.125,0.375,0.500,ski and ski boot
+✦,0x2726,0.063,0.813,0.125,black four pointed star
+🆔,0x1f194,0.063,0.125,0.813,squared id
+⛪,0x26ea,0.188,0.500,0.313,church
+🌒,0x1f312,0.063,0.313,0.625,waxing crescent moon symbol
+🐪,0x1f42a,0.063,0.313,0.625,dromedary camel
+╔,0x2554,0.063,0.625,0.313,box drawings double down and right
+╝,0x255d,0.063,0.438,0.500,box drawings double up and left
+👔,0x1f454,0.200,0.267,0.533,necktie
+🔱,0x1f531,0.267,0.400,0.333,trident emblem
+🆓,0x1f193,0.067,0.667,0.267,squared free
+🐋,0x1f40b,0.200,0.400,0.400,whale
+▽,0x25bd,0.133,0.333,0.533,white down-pointing triangle
+▂,0x2582,0.067,0.867,0.067,lower one quarter block
+🐛,0x1f41b,0.200,0.333,0.467,bug
+👕,0x1f455,0.133,0.333,0.533,t-shirt
+🚋,0x1f68b,0.067,0.800,0.133,tram car
+💳,0x1f4b3,0.133,0.333,0.533,credit card
+🌆,0x1f306,0.200,0.467,0.333,cityscape at dusk
+🏧,0x1f3e7,0.067,0.067,0.867,automated teller machine
+💡,0x1f4a1,0.067,0.267,0.667,electric light bulb
+🔹,0x1f539,0.200,0.467,0.333,small blue diamond
+⬅,0x2b05,0.067,0.400,0.533,leftwards black arrow
+🍠,0x1f360,0.400,0.200,0.400,roasted sweet potato
+🐫,0x1f42b,0.067,0.533,0.400,bactrian camel
+🏪,0x1f3ea,0.200,0.533,0.267,convenience store
+۩,0x6e9,0.067,0.867,0.067,arabic place of sajdah
+🇱,0x1f1f1,0.067,0.467,0.467,regional indicator symbol letter l
+📹,0x1f4f9,0.143,0.286,0.571,video camera
+👞,0x1f45e,0.143,0.286,0.571,mans shoe
+🚑,0x1f691,0.286,0.357,0.357,ambulance
+🆘,0x1f198,0.357,0.214,0.429,squared sos
+👚,0x1f45a,0.071,0.286,0.643,womans clothes
+🚍,0x1f68d,0.357,0.214,0.429,oncoming bus
+□,0x25a1,0.571,0.071,0.357,white square
+🐂,0x1f402,0.143,0.571,0.286,ox
+🚣,0x1f6a3,0.071,0.286,0.643,rowboat
+✳,0x2733,0.071,0.857,0.071,eight spoked asterisk
+🏉,0x1f3c9,0.071,0.357,0.571,rugby football
+🗻,0x1f5fb,0.071,0.286,0.643,mount fuji
+🐀,0x1f400,0.143,0.571,0.286,rat
+╦,0x2566,0.071,0.500,0.429,box drawings double down and horizontal
+⛺,0x26fa,0.154,0.231,0.615,tent
+🐕,0x1f415,0.154,0.462,0.385,dog
+🏂,0x1f3c2,0.154,0.308,0.538,snowboarder
+👡,0x1f461,0.154,0.308,0.538,womans sandal
+📻,0x1f4fb,0.154,0.385,0.462,radio
+✒,0x2712,0.154,0.462,0.385,black nib
+🌰,0x1f330,0.077,0.308,0.615,chestnut
+🏢,0x1f3e2,0.077,0.692,0.231,office building
+🎒,0x1f392,0.154,0.231,0.615,school satchel
+⌒,0x2312,0.077,0.308,0.615,arc
+🏫,0x1f3eb,0.538,0.154,0.308,school
+📴,0x1f4f4,0.154,0.077,0.769,mobile phone off
+🚢,0x1f6a2,0.308,0.154,0.538,ship
+🚚,0x1f69a,0.231,0.615,0.154,delivery truck
+🐉,0x1f409,0.077,0.692,0.231,dragon
+❒,0x2752,0.077,0.615,0.308,upper right shadowed white square
+🐊,0x1f40a,0.231,0.462,0.308,crocodile
+🔔,0x1f514,0.077,0.077,0.846,bell
+◢,0x25e2,0.077,0.231,0.692,black lower right triangle
+🏥,0x1f3e5,0.167,0.417,0.417,hospital
+❔,0x2754,0.333,0.333,0.333,white question mark ornament
+🚖,0x1f696,0.333,0.417,0.250,oncoming taxi
+🃏,0x1f0cf,0.333,0.250,0.417,playing card black joker
+▼,0x25bc,0.250,0.417,0.333,black down-pointing triangle
+▌,0x258c,0.417,0.417,0.167,left half block
+☛,0x261b,0.083,0.500,0.417,black right pointing index
+✩,0x2729,0.083,0.833,0.083,stress outlined white star
+💒,0x1f492,0.083,0.333,0.583,wedding
+🚤,0x1f6a4,0.083,0.500,0.417,speedboat
+🐐,0x1f410,0.083,0.417,0.500,goat
+■,0x25a0,0.500,0.250,0.250,black square
+🔚,0x1f51a,0.167,0.333,0.500,end with leftwards arrow above
+🎻,0x1f3bb,0.083,0.500,0.417,violin
+🔷,0x1f537,0.083,0.667,0.250,large blue diamond
+🚦,0x1f6a6,0.250,0.417,0.333,vertical traffic light
+🔓,0x1f513,0.333,0.250,0.417,open lock
+🎽,0x1f3bd,0.083,0.417,0.500,running shirt with sash
+📅,0x1f4c5,0.250,0.333,0.417,calendar
+🎺,0x1f3ba,0.167,0.083,0.750,trumpet
+✯,0x272f,0.083,0.833,0.083,pinwheel star
+🍈,0x1f348,0.583,0.167,0.250,melon
+✉,0x2709,0.167,0.417,0.417,envelope
+╣,0x2563,0.083,0.833,0.083,box drawings double vertical and left
+◤,0x25e4,0.083,0.083,0.833,black upper left triangle
+○,0x25cb,0.091,0.364,0.545,white circle
+🍼,0x1f37c,0.182,0.182,0.636,baby bottle
+📀,0x1f4c0,0.182,0.545,0.273,dvd
+🚛,0x1f69b,0.273,0.636,0.091,articulated lorry
+📓,0x1f4d3,0.182,0.455,0.364,notebook
+☉,0x2609,0.091,0.636,0.273,sun
+💴,0x1f4b4,0.364,0.455,0.182,banknote with yen sign
+┼,0x253c,0.273,0.455,0.273,box drawings light vertical and horizontal
+🐃,0x1f403,0.091,0.818,0.091,water buffalo
+➰,0x27b0,0.455,0.182,0.364,curly loop
+🔌,0x1f50c,0.364,0.364,0.273,electric plug
+🍄,0x1f344,0.273,0.455,0.273,mushroom
+📕,0x1f4d5,0.182,0.455,0.364,closed book
+📣,0x1f4e3,0.182,0.273,0.545,cheering megaphone
+🚓,0x1f693,0.091,0.545,0.364,police car
+🐗,0x1f417,0.091,0.364,0.545,boar
+↪,0x21aa,0.091,0.727,0.182,rightwards arrow with hook
+⛳,0x26f3,0.091,0.182,0.727,flag in hole
+┻,0x253b,0.636,0.091,0.273,box drawings heavy up and horizontal
+┛,0x251b,0.091,0.273,0.636,box drawings heavy up and left
+┃,0x2503,0.091,0.455,0.455,box drawings heavy vertical
+👱,0x1f471,0.200,0.500,0.300,person with blond hair
+⏳,0x23f3,0.400,0.200,0.400,hourglass with flowing sand
+💺,0x1f4ba,0.200,0.400,0.400,seat
+🏇,0x1f3c7,0.400,0.300,0.300,horse racing
+☻,0x263b,0.200,0.400,0.400,black smiling face
+📞,0x1f4de,0.100,0.400,0.500,telephone receiver
+Ⓐ,0x24b6,0.300,0.500,0.200,circled latin capital letter a
+🌉,0x1f309,0.100,0.300,0.600,bridge at night
+🚩,0x1f6a9,0.400,0.400,0.200,triangular flag on post
+✎,0x270e,0.100,0.300,0.600,lower right pencil
+📃,0x1f4c3,0.100,0.400,0.500,page with curl
+🏨,0x1f3e8,0.100,0.600,0.300,hotel
+📌,0x1f4cc,0.600,0.200,0.200,pushpin
+♎,0x264e,0.300,0.500,0.200,libra
+💷,0x1f4b7,0.100,0.400,0.500,banknote with pound sign
+🚄,0x1f684,0.100,0.300,0.600,high-speed train
+▲,0x25b2,0.100,0.300,0.600,black up-pointing triangle
+⛵,0x26f5,0.100,0.300,0.600,sailboat
+🔸,0x1f538,0.100,0.600,0.300,small orange diamond
+⌛,0x231b,0.300,0.300,0.400,hourglass
+🚜,0x1f69c,0.100,0.100,0.800,tractor
+🐆,0x1f406,0.100,0.500,0.400,leopard
+👒,0x1f452,0.200,0.400,0.400,womans hat
+❕,0x2755,0.200,0.400,0.400,white exclamation mark ornament
+🔛,0x1f51b,0.200,0.200,0.600,on with exclamation mark with left right arrow above
+♢,0x2662,0.100,0.500,0.400,white diamond suit
+🇲,0x1f1f2,0.100,0.400,0.500,regional indicator symbol letter m
+❅,0x2745,0.100,0.200,0.700,tight trifoliate snowflake
+👝,0x1f45d,0.222,0.222,0.556,pouch
+✞,0x271e,0.111,0.444,0.444,shadowed white latin cross
+◡,0x25e1,0.111,0.556,0.333,lower half circle
+🎋,0x1f38b,0.222,0.111,0.667,tanabata tree
+👥,0x1f465,0.222,0.333,0.444,busts in silhouette
+📵,0x1f4f5,0.222,0.444,0.333,no mobile phones
+🐡,0x1f421,0.111,0.556,0.333,blowfish
+◆,0x25c6,0.111,0.222,0.667,black diamond
+🏯,0x1f3ef,0.111,0.667,0.222,japanese castle
+☂,0x2602,0.222,0.556,0.222,umbrella
+🔭,0x1f52d,0.111,0.444,0.444,telescope
+🎪,0x1f3aa,0.111,0.556,0.333,circus tent
+🐜,0x1f41c,0.111,0.333,0.556,ant
+♌,0x264c,0.111,0.222,0.667,leo
+☐,0x2610,0.778,0.111,0.111,ballot box
+👷,0x1f477,0.222,0.333,0.444,construction worker
+↳,0x21b3,0.111,0.778,0.111,downwards arrow with tip rightwards
+🔈,0x1f508,0.111,0.556,0.333,speaker
+📄,0x1f4c4,0.111,0.111,0.778,page facing up
+📍,0x1f4cd,0.222,0.444,0.333,round pushpin
+🚐,0x1f690,0.111,0.222,0.667,minibus
+🚔,0x1f694,0.222,0.556,0.222,oncoming police car
+🌋,0x1f30b,0.111,0.333,0.556,volcano
+📡,0x1f4e1,0.222,0.333,0.444,satellite antenna
+⏩,0x23e9,0.111,0.667,0.222,black right-pointing double triangle
+🚳,0x1f6b3,0.111,0.111,0.778,no bicycles
+✘,0x2718,0.111,0.222,0.667,heavy ballot x
+۞,0x6de,0.111,0.778,0.111,arabic start of rub el hizb
+☾,0x263e,0.111,0.778,0.111,last quarter moon
+🅰,0x1f170,0.222,0.333,0.444,negative squared latin capital letter a
+📥,0x1f4e5,0.111,0.778,0.111,inbox tray
+🇼,0x1f1fc,0.111,0.444,0.444,regional indicator symbol letter w
+┓,0x2513,0.111,0.333,0.556,box drawings heavy down and left
+┣,0x2523,0.111,0.333,0.556,box drawings heavy vertical and right
+Ⓛ,0x24c1,0.111,0.444,0.444,circled latin capital letter l
+Ⓔ,0x24ba,0.111,0.444,0.444,circled latin capital letter e
+🔦,0x1f526,0.125,0.750,0.125,electric torch
+👤,0x1f464,0.125,0.250,0.625,bust in silhouette
+🚁,0x1f681,0.125,0.625,0.250,helicopter
+🎠,0x1f3a0,0.125,0.375,0.500,carousel horse
+🐁,0x1f401,0.375,0.500,0.125,mouse
+📗,0x1f4d7,0.250,0.375,0.375,green book
+┐,0x2510,0.375,0.375,0.250,box drawings light down and left
+☮,0x262e,0.375,0.250,0.375,peace symbol
+♂,0x2642,0.125,0.625,0.250,male sign
+◞,0x25de,0.250,0.500,0.250,lower right quadrant circular arc
+📯,0x1f4ef,0.250,0.625,0.125,postal horn
+🔩,0x1f529,0.250,0.375,0.375,nut and bolt
+👢,0x1f462,0.125,0.250,0.625,womans boots
+◂,0x25c2,0.125,0.500,0.375,black left-pointing small triangle
+📰,0x1f4f0,0.250,0.250,0.500,newspaper
+📶,0x1f4f6,0.125,0.500,0.375,antenna with bars
+🚥,0x1f6a5,0.250,0.500,0.250,horizontal traffic light
+🌄,0x1f304,0.125,0.625,0.250,sunrise over mountains
+🗾,0x1f5fe,0.125,0.500,0.375,silhouette of japan
+🔶,0x1f536,0.125,0.500,0.375,large orange diamond
+🏤,0x1f3e4,0.125,0.500,0.375,european post office
+🎩,0x1f3a9,0.125,0.500,0.375,top hat
+Ⓜ,0x24c2,0.250,0.250,0.500,circled latin capital letter m
+🔧,0x1f527,0.625,0.125,0.250,wrench
+🐅,0x1f405,0.125,0.625,0.250,tiger
+♮,0x266e,0.125,0.625,0.250,music natural sign
+🅾,0x1f17e,0.375,0.375,0.250,negative squared latin capital letter o
+🔄,0x1f504,0.125,0.750,0.125,anticlockwise downwards and upwards open circle arrows
+☄,0x2604,0.125,0.750,0.125,comet
+☨,0x2628,0.125,0.750,0.125,cross of lorraine
